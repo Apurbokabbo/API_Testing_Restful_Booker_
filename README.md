@@ -5,9 +5,9 @@ Here is a list of booking admin APIs. The admin has CRUD access to the booking p
 
 
 ## Technologies Used : 
-Java \
-Rest-Assured \
-TestNG \
+* Java 
+* Rest-Assured 
+* TestNG 
 Allure
 ## Flow Of Automation
 1.Use proper admin credentials to log in.\
