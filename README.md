@@ -26,6 +26,7 @@ Allure
 1.Error Handing \
 2.Functional Testing \
 3.Data Validation Testing \
-4.Security Testing 
+4.Security Testing \
+5.Regression Testing
 ## Allure Report
 ![Report Screenshot](https://github.com/Apurbokabbo/restful_booker_api_testing/blob/main/Newman-Summary-Report.png?raw=true)
