@@ -23,10 +23,9 @@ Allure
 1.Java must be installed on the device.\
 2.Postman (Optional).
 ## Covered Area
-1.Error Handing \
-2.Functional Testing \
+1.Functional Testing \
+2.Error Handing \
 3.Data Validation Testing \
-4.Security Testing \
-5.Regression Testing
+4.Regression Testing
 ## Newman Report
 ![Report Screenshot](https://github.com/Apurbokabbo/restful_booker_api_testing/blob/main/Newman-Summary-Report.png?raw=true)
